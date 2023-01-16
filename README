@@ -1,0 +1,7 @@
+OpenTelemetry and CloudTrace Integration
+
+
+gcloud auth application-default login
+gcloud auth application-default set-quota-project applied-summer-374415
+
+https://cloud.google.com/trace/docs/setup/java-ot#export
